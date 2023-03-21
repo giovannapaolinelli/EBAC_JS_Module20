@@ -22,6 +22,6 @@ function indiceMenorValor() {
     return indice;
 }
 
-let array = [1, 7, 9, 15, 3, 40, 5];
+let array = [1, 7, 9, 15, 3, 40, 6];
 console.log("O índice de maior valor é: " + (indiceMaiorValor(array)));
 console.log("O índice de menor valor é: " + (indiceMenorValor(array)));

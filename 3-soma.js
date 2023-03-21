@@ -10,5 +10,5 @@ function retornaSoma(num1, num2) {
     return soma;
 }
 
-console.log(9%3);
+
 console.log("A soma dos múltiplos de 5 e 7 abaixo de 1000 é: " + (retornaSoma(5,7)));

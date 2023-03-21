@@ -14,4 +14,4 @@ let resultado = (num1, num2) => {
 
 }
 
-console.log("O MDC de 66 e 93 é: " + resultado(66,93));
+console.log("O MDC de 6 e 93 é: " + resultado(6,93));
