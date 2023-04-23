@@ -1,4 +1,4 @@
-let resultado = (num1, num2) => {
+let mdc = (num1, num2) => {
 
     do {
 
@@ -14,4 +14,8 @@ let resultado = (num1, num2) => {
 
 }
 
-console.log("O MDC de 6 e 93 é: " + resultado(6,93));
+module.exports =  mdc;
+num1 = 6
+num2 = 93
+
+console.log("O MDC de "+num1+" e "+num2+" é: " + mdc(num1,num2));
